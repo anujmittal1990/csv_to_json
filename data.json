@@ -1,0 +1,39 @@
+{
+    "emp_data": [
+        {
+            "EMP_ID": 1,
+            "EMP_NAME": "Anuj",
+            "DESIGNATION": "senior",
+            "SALARY": 3500000
+        },
+        {
+            "EMP_ID": 2,
+            "EMP_NAME": "Sachin",
+            "DESIGNATION": "senior",
+            "SALARY": 2400000
+        },
+        {
+            "EMP_ID": 3,
+            "EMP_NAME": "Deepak",
+            "DESIGNATION": "senior",
+            "SALARY": 3600000
+        }
+    ],
+    "dept_data": [
+        {
+            "EMP_ID": 1,
+            "DEPT_ID": 11,
+            "DEPT_NAME": "AI"
+        },
+        {
+            "EMP_ID": 2,
+            "DEPT_ID": 12,
+            "DEPT_NAME": "EA"
+        },
+        {
+            "EMP_ID": 3,
+            "DEPT_ID": 13,
+            "DEPT_NAME": "ORACLE"
+        }
+    ]
+}
